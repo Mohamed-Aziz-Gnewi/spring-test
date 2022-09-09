@@ -9,7 +9,7 @@ import java.util.List;
 import static org.hibernate.annotations.CascadeType.ALL;
 
 @Entity
-@Table(name = "voiture")
+@Table(name = "Car")
 public class Car {
 
     @Id
